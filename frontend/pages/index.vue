@@ -3,5 +3,6 @@
         <MainPageHero />
         <MainPageUpfrontCost />
         <MainPageBenefits />
+        <MainPageCases />
     </NuxtLayout>
 </template>
