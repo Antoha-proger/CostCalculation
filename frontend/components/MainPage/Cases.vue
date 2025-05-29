@@ -26,7 +26,7 @@ import 'swiper/css/navigation';
                     <li class="text-[#150981] text-xl font-semibold">Тип сайта: многостраничный сайт</li>
                     <li class="text-[#150981] text-xl font-semibold">Количество страниц: 7</li>
                     <li class="text-[#150981] text-xl font-semibold">Срок разработки: 3 месяца</li>
-                    <li class="text-[#150981] text-xl font-semibold">Стоимость проекта: 200.000 тыс. руб.</li>
+                    <li class="text-[#150981] text-xl font-semibold">Стоимость проекта: 200 тыс. руб.</li>
                 </ul>
                 <nuxt-link class="pointer w-[200px] h-[35px] bg-[#150981] rounded-[10px] text-white grid place-items-center text-lg hover:bg-white hover:text-[#150981] duration-300 border border-[#150981]" to="/reg">Подробнее</nuxt-link>
             </swiper-slide>
@@ -38,7 +38,7 @@ import 'swiper/css/navigation';
                     <li class="text-[#150981] text-xl font-semibold">Тип сайта: сайт-визитка</li>
                     <li class="text-[#150981] text-xl font-semibold">Количество страниц: 3</li>
                     <li class="text-[#150981] text-xl font-semibold">Срок разработки: 3 недели</li>
-                    <li class="text-[#150981] text-xl font-semibold">Стоимость проекта: 80.000 тыс. руб.</li>
+                    <li class="text-[#150981] text-xl font-semibold">Стоимость проекта: 80 тыс. руб.</li>
                 </ul>
                 <nuxt-link class="pointer w-[200px] h-[35px] bg-[#150981] rounded-[10px] text-white grid place-items-center text-lg hover:bg-white hover:text-[#150981] duration-300 border border-[#150981]" to="/reg">Подробнее</nuxt-link>
             </swiper-slide>

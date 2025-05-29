@@ -4,5 +4,6 @@
         <MainPageUpfrontCost />
         <MainPageBenefits />
         <MainPageCases />
+        <MainPageContacts />
     </NuxtLayout>
 </template>
